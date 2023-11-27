@@ -10,7 +10,7 @@ public class LinkedList
 
  // Linked list Node. 
  // This inner class is made static 
- // so that main() can access it 
+ // so that main() can access it .
 	 static class Node 
 	 { 
 	
